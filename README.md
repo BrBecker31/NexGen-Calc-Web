@@ -1,2 +1,2 @@
-# NexGen-Calc-Web
-Web application for calculating performance for the Cessna 172 Skyhawk
+# NexGen-Calc
+Web app version of the NexGen Calculator: C172S app

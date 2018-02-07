@@ -1,0 +1,13 @@
+.TOLDheader {
+  background-color: #eee;
+  text-align: center;
+}
+
+#TOLDtable {
+  background-color: #fff;
+}
+
+.TOLDvalue {
+  float: right;
+  padding-right: 10px;
+};
