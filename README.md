@@ -1,3 +1,23 @@
-# NexGen-Calc
-Web app version of the NexGen Calculator: C172 mobile application
-https://nexgen-calcs.herokuapp.com/
+# NexGen Calculations 
+
+## Contributors:
+- ### Bryan Becker
+- ### Abby Johnson
+- ### Tyler Mitchell
+
+## Consultant:
+- ### Jim Arnold
+
+# See a live version of the web application at https://nexgen-calcs.herokuapp.com/
+
+# See a live version of the mobile application by installing Expo Client on your mobile device. Open Expo Client on your device and use it to scan the QR code below. You may have to wait a minute while the project bundles and loads for the first time. (Please connect to WIFI for best results)
+![captureqrcode](https://user-images.githubusercontent.com/23510097/35948866-8f15fe66-0c23-11e8-90b6-3bc28f443285.JPG)
+
+## Premise:
+### The goal of our project, NexGen Calculations: C172S, was to build an aircraft performance-based application in both React and React Native that is specific to the Cessna 172 Shyhawk. The Cessna is the most widely used aircraft for flight training and general aviation (G.A). The user can provide basic information about their flight, then our application will get the necessary information through AJAX calls and then process them through our algorithms.
+### The aviation industry frequently leads the way in advancing technology; however, G.A still relies on methods over 40 years old for these calculations. On average, an experienced pilot will spend at least ten minutes, and a student pilot will easily spend thirty or more performing these computations. Furthermore, there is notable room for error in the interpolation of manually calculated values and paths.
+### This app solves these problems by using innovative technology (React, React Native, and Redux) and advanced algorithms that allow users to make extremely accurate and expedient calculations.
+
+
+## This app was built using the MERN stack.
+
