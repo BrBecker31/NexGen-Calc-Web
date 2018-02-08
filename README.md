@@ -10,8 +10,7 @@
 
 # See a live version of the web application at https://nexgen-calcs.herokuapp.com/
 
-# See a live version of the mobile application by installing Expo Client on your mobile device. Open Expo Client on your device and use it to scan the QR code below. You may have to wait a minute while the project bundles and loads for the first time. (Please connect to WIFI for best results)
-![captureqrcode](https://user-images.githubusercontent.com/23510097/35948866-8f15fe66-0c23-11e8-90b6-3bc28f443285.JPG)
+# See a recorded version of the mobile application at https://youtu.be/uC2x7ekBhcg
 
 ## Premise:
 ### The goal of our project, NexGen Calculations: C172S, was to build an aircraft performance-based application in both React and React Native that is specific to the Cessna 172 Shyhawk. The Cessna is the most widely used aircraft for flight training and general aviation (G.A). The user can provide basic information about their flight, then our application will get the necessary information through AJAX calls and then process them through our algorithms.
